@@ -1,0 +1,22 @@
+.row {
+    margin-left: 25rem;
+}
+
+.tikLeft {
+    cursor: pointer;
+    opacity: 50%;
+}
+
+.tikRight {
+    float: right;
+    cursor: pointer;
+    opacity: 50%;
+}
+
+.tikLeft:hover {
+    opacity: 100%;
+}
+
+.tikRight:hover {
+    opacity: 100%;
+}
