@@ -16,8 +16,6 @@ keys.addEventListener('click', function(e) {
     const value = element.value
 
     if (!element.matches('button')) return;
-
-    if (!element.matches('button')) return;
     switch (element.value) {
         case '+':
         case '-':
